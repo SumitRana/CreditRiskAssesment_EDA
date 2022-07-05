@@ -1,4 +1,4 @@
-# Project Name
+# EDA For Credit Risk and Defaulter Asessment
 > The Project is the identify the applicants who are applying for the loan. The Aim of the project is to reduce the credit loss and identify the riskier people using EDA method.
 
 Outline a brief description of your project.
